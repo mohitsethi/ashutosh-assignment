@@ -1,0 +1,11 @@
+Mar  7 18:09:41 calypso org.gtk.vfs.Daemon[1636]:       dc0b: Parent Object UINT32 data type ANY 32BIT VALUE form READ ONLY
+Mar  7 18:09:41 calypso org.gtk.vfs.Daemon[1636]:       dc41: Persistant Unique Object Identifier UINT128 data type READ ONLY
+Mar  7 18:09:41 calypso org.gtk.vfs.Daemon[1636]:       dc44: Name STRING data type READ ONLY
+Mar  7 18:09:41 calypso org.gtk.vfs.Daemon[1636]:       dce0: Display Name STRING data type READ ONLY
+Mar  7 18:09:41 calypso org.gtk.vfs.Daemon[1636]:       dc4e: Date Added STRING data type DATETIME FORM READ ONLY
+Mar  7 18:09:41 calypso org.gtk.vfs.Daemon[1636]:    ba14: PLS Playlist
+Mar  7 18:10:41 calypso org.gtk.vfs.Daemon[1636]:       dc01: Storage ID UINT32 data type ANY 32BIT VALUE form READ ONLY
+Mar  7 18:11:41 calypso org.gtk.vfs.Daemon[1636]:       dc02: Object Format UINT16 data type ANY 16BIT VALUE form READ ONLY
+Mar  7 18:12:41 calypso org.gtk.vfs.Daemon[1636]:       dc03: Protection Status UINT16 data type ANY 16BIT VALUE form READ ONLY
+Mar  7 18:13:41 calypso org.gtk.vfs.Daemon[1636]:       dc04: Object Size UINT64 data type READ ONLY
+Mar  7 18:14:41 calypso org.gtk.vfs.Daemon[1636]:       dc07: Object File Name STRING data type GET/SET
